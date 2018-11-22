@@ -1,0 +1,16 @@
+{
+    "name": "sickdaflip/magento_paypal_plus",
+    "license": "GPLv3",
+    "type": "magento-module",
+    "description": "Magento PayPal Plus Module by I-Ways v1.9.2",
+    "authors": [
+        {
+            "name": "SickDaFlip",
+            "email": "philippbreitsprecher@gmail.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
+
